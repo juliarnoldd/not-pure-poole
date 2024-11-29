@@ -5,7 +5,7 @@ url: juliarnoldd.github.io
 avatar: /avatar.jpeg
 paginate: 5
 permalink: pretty
-cover_image: /rb.jpeg
+cover_image: https://www.google.com/url?sa=i&url=https%3A%2F%2Fpsychologist7.co.za%2Fblog-afrikaans%2F%3Flang%3Dafr&psig=AOvVaw22Ib7aI7me15LI_LnVySpZ&ust=1732932270995000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCJCglPi5gIoDFQAAAAAdAAAAABAP
 
 # Gems
 plugins:
